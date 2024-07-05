@@ -58,7 +58,7 @@ Ensure you have the following installed on your local machine:
 1. Clone Repo
 
    ```
-     git clone https://github.com/dimassagngsptr/fwm17-be-peword.git
+     git clone https://github.com/Azhar-54/fwm17-be-peword.git
    ```
 
 2. Go to folder
@@ -192,6 +192,9 @@ Email: burhanuddinazhar2@gmail.com
 For issues related to the back-end, please contact the original developer, [Muhammad Risano](https://github.com/muhammadrisano). 
 
 We're here to help!
+
+### Related Project
+:rocket: [`Peworld`](https://github.com/Azhar-54/peworld-frontEnd)
 
 ## Acknowledgements
 
