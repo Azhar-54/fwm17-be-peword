@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/dimassagngsptr/Peworld">
+  <a href="https://github.com/Azhar-54/peworld-frontEnd">
       <img src="https://github.com/Azhar-54/peworld-frontEnd/blob/main/src/assets/purple-logo.svg" width="350"/>
   </a>
 
@@ -9,7 +9,7 @@
     Peworld Implementation
     <br />
     <br />
-   <a href="https://dimas-peworld.vercel.app/" target="_blank">View Website Demo</a>
+   <a href="https://peworld-front-end.vercel.app/" target="_blank">View Website Demo</a>
     ·
     <a href="https://github.com/Azhar-54/peworld-frontEnd" target="_blank">View Front-End Repo</a>
   </p>
