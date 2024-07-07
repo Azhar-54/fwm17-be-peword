@@ -165,14 +165,6 @@ Access the API documentation for the **Peworld** project, also created by [him](
 
 [![Peworld API Postman Documentation](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/7675329/2s9YysDhDY#d67edcdf-e1ef-468b-9877-2c3e930c82a9)
 
-### Project Related
-
-- [`Front-End Project Repository Link`](https://github.com/Azhar-54/peworld-frontEnd)
-
-- [`Front-End Demonstration Link`](https://peworld-front-end.vercel.app/)
-
-<!-- [`Back-End Demonstration Link`](https://fwm17-be-peword.vercel.app/v1/workers) -->
-
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -194,7 +186,9 @@ For issues related to the back-end, please contact the original developer, [Muha
 We're here to help!
 
 ### Related Project
-:rocket: [`Peworld`](https://github.com/Azhar-54/peworld-frontEnd)
+:rocket: [`Peworld Front End`](https://github.com/Azhar-54/peworld-frontEnd)
+
+:rocket: [`Demo Back End`](https://fwm17-be-peword.vercel.app/v1/workers)
 
 ## Acknowledgements
 
